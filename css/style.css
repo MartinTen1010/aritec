@@ -331,6 +331,7 @@ a:focus {
 }
 
 .feature_section {
+  margin-top: 150px;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
