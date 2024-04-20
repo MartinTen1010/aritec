@@ -3,11 +3,6 @@
 @media (max-width: 1120px) {}
 
 @media (max-width: 992px) {
-
-    .feature_section{
-        margin-top: 0;
-    }
-
     .hero_area {
         height: auto;
     }

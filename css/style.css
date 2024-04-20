@@ -41,8 +41,10 @@ body {
       -ms-flex-align: start;
           align-items: flex-start;
 }
-.logo{
-    border: 3px solid #FFFFFF;
+    
+.logo img{  width: 100px;
+    height: 50px;
+    alignment-baseline: center
 }
 
 .heading_container h2 {
@@ -331,7 +333,6 @@ a:focus {
 }
 
 .feature_section {
-  margin-top: 150px;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
