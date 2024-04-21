@@ -4,6 +4,10 @@ body {
   color: #040000;
 }
 
+.feature_container{
+  margin-top: 130px;
+}
+
 .layout_padding {
   padding-top: 120px;
   padding-bottom: 120px;
