@@ -47,8 +47,7 @@ body {
 }
     
 .logo img{  width: 130px;
-    height: 65px;
-    border-bottom-style: dashed    
+    height: 70px;  
 }
 
 .heading_container h2 {
@@ -98,8 +97,8 @@ a:focus {
 
 .header_section .header_top {
   padding: 15px 0;
-  background-color: black;
-  border-top:  #D1E3FFpx;
+  background-color: #FFFFFF;
+  border-top:  10px;
     
 }
 
@@ -113,7 +112,7 @@ a:focus {
 }
 
 .header_section .header_top .contact_nav a {
-  color: #ffffff;
+  color: #000000;
 }
 
 .header_section .header_top .contact_nav a i {
