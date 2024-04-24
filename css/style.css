@@ -94,7 +94,7 @@ a:focus {
 }
 .slider_wrapper{
     position: relative;
-    max-width: 48rem;
+
     margin: 0 auto;
 }
 .slider{
