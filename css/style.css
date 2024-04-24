@@ -45,8 +45,12 @@ body {
       -ms-flex-align: start;
           align-items: flex-start;
 }
-    
-.logo img{  width: 130px;
+ 
+.left{
+    text-align: left
+}
+
+.logo img{  width: 100px;
     height: 70px;  
 }
 
